@@ -5,7 +5,7 @@ node {
             echo "Hello \u001B[31mRed\u001B[m"
         }
         stage("\u001B[32mI'm Green\u001B[0m Now not") {
-            echo "Heeelllo \u001B[32mGreen\u001B[m"
+            echo "Helllo \u001B[32mGreen\u001B[m"
         }
     }
 }
